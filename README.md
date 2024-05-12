@@ -1,4 +1,6 @@
+# [Google Gemini](https://aistudio.google.com/) no telegram
 
+O objetivo desse projeto é esperimentar o SDK do Google AI e conversar com o Gemini através do Telegram.
 
 
 ### Environment
